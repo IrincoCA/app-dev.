@@ -21,7 +21,7 @@ My first repository.
 > "With great power comes great responsibility."
 
 ## 🎥 Trailer
-[Watch the trailer here](https://www.youtube.com)
+[Watch the trailer here]([https://www.youtube.com](https://www.youtube.com/watch?v=JfVOs4VSpmA))
 
 ##  Rating
 | Category       | Rating |
